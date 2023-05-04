@@ -1,0 +1,78 @@
+.verticalmenu{width:160px; height:240px; background:#fcbac3; margin: 10px 0 0 2px;}
+.verticalmenu ul{margin:0; padding:0; list-style: none;}
+.verticalmenu ul li a{display: block; width:155px; height: 38px; text-decoration: none; color:#8b4513; font: bold 13px tahoma; padding:10px 0 0 5px;}
+.verticalmenu ul li a:hover{background: #8b4513; color:#fff;}
+
+.horizontalmenu{width:600px; height:50px; background: #fcbac3; margin:40px 0 0 2px;}
+.horizontalmenu ul{margin:0; padding:0; list-style: none;}
+.horizontalmenu ul li{float: left;}
+.horizontalmenu ul li a{display: block; width:120px; height:35px; text-decoration: none; color:#8b4513; font: bold 13px tahoma; text-align: center; padding: 15px 0 0 0;}
+.horizontalmenu ul li a:hover{background:#8b4513; color: #fff;}
+
+.horizontalmenu2{width:391.1px; height:45.2px; background: #fcbac3; margin:40px 0 0 2px;}
+.horizontalmenu2 ul{margin:0; padding:0; list-style: none;}
+.horizontalmenu2 ul li{float: left;}
+.horizontalmenu2 ul li a{display: block; padding: 15px 9px; text-decoration: none; color:#8b4513; font: bold 13px tahoma;}
+.horizontalmenu2 ul li a:hover{background:#8b4513; color: #fff;}
+
+.verticalopeningmenu{width:152px; height: 173px; margin:40px 0 0 2px;}
+.verticalopeningmenu ul{margin:0; padding:0; list-style: none;}
+.verticalopeningmenu ul li{position:relative}
+.verticalopeningmenu ul a{display: block; width:140.5px; text-decoration: none; padding: 9px 5px; color: #8b4513; font: bold 13px tahoma; background: #fcbac3; border: 1px solid #800;}
+.verticalopeningmenu ul a:hover{background: #8b4513; color: #fff;}
+.verticalopeningmenu ul li ul{display: none; position: absolute; left: 152px; top:0;}
+.verticalopeningmenu ul li:hover ul{display: block;}
+
+.horizontalopeningmenu{width:710px; height:50px; margin:40px 0 0 2px;}
+.horizontalopeningmenu ul{margin:0; padding:0; list-style: none;}
+.horizontalopeningmenu ul li{float: left; position: relative;}
+.horizontalopeningmenu ul li a{display: block; width:140px; height:33px; background: #fcbac3; text-align: center; color: #8b4513; font: bold 13px tahoma; text-decoration: none; border:1px solid #800 ; padding:15px 0 0 0;}
+.horizontalopeningmenu ul li a:hover{background:#8b4513; color:#fff;}
+.horizontalopeningmenu ul li ul{display: none; position: absolute; left:0; top:50px}
+.horizontalopeningmenu ul li:hover ul{display: block;}
+
+.horizontalopeningmenu2{width:710px; height:50px; margin:250px 0 0 2px;}
+.horizontalopeningmenu2 ul{margin:0; padding:0; list-style: none;}
+.horizontalopeningmenu2 ul li{float: left;}
+.horizontalopeningmenu2 ul li a{display: block; width:140px; height:33px; background: #fcbac3; text-align: center; color: #8b4513; font: bold 13px tahoma; text-decoration: none; border:1px solid #800 ; padding:15px 0 0 0;}
+.horizontalopeningmenu2 ul li a:hover{background:#8b4513; color:#fff;}
+.horizontalopeningmenu2 ul li ul{display: none;}
+.horizontalopeningmenu2 ul li ul li{clear: both;}
+.horizontalopeningmenu2 ul li:hover ul{display: block;}
+
+.tabbedmenu{width:780px; height:50px; margin:250px 0 0 2px; border-bottom: 1px solid #000;}
+.tabbedmenu ul{margin:0; padding:0; list-style: none;}
+.tabbedmenu ul li{float: left;}
+.tabbedmenu ul li a{display: block; width: 162.5px; height:35px; text-decoration: none; color: black; font: bold 13px tahoma; background: url(images/htmlcssjs.webp) no-repeat; padding:15px 0 0 15px;}
+.tabbedmenu ul li a:hover{color: #800;}
+
+.picturedmenu{width:688px; height:60px; margin:100px 0 0 2px;}
+.picturedmenu ul{margin:0; padding:0; list-style: none;}
+.picturedmenu ul li{float: left;}
+.picturedmenu ul li a{display: block; width:98px; height:60px; background: url(images/anamenu.jpg) no-repeat; text-indent:-2000px;}
+.picturedmenu ul li#mainpage a{background-position: 0 0;}
+.picturedmenu ul li#aboutus a{background-position: -80px 0;}
+.picturedmenu ul li#products a{background-position: -167px 0;}
+.picturedmenu ul li#menus a{background-position: -258px 0 ;}
+.picturedmenu ul li#ourbranches a{background-position: -337px 0;}
+.picturedmenu ul li#humanresources a{background-position:-440px 0 ;}
+.picturedmenu ul li#contactus a{background-position: -541px 0;}
+.picturedmenu ul li#mainpage a:hover{background-position: 0 -66px;}
+.picturedmenu ul li#aboutus a:hover{background-position: -80px -66px;}
+.picturedmenu ul li#products a:hover{background-position: -167px -66px;}
+.picturedmenu ul li#menus a:hover{background-position: -258px -66px;}
+.picturedmenu ul li#ourbranches a:hover{background-position: -337px -66px;}
+.picturedmenu ul li#humanresources a:hover{background-position: -440px -66px;}
+.picturedmenu ul li#contactus a:hover{background-position: -541px -66px;}
+
+
+.picturedmenu2{width:755px; height:75px; margin:100px 0 100px 2px; background:#f5f5f5;}
+.picturedmenu2 ul{margin:0; padding:0; list-style:none}
+.picturedmenu2 ul li{float: left;}
+.picturedmenu2 ul li a{display:block; padding:9px 22px; color:rgb(187, 4, 4); text-decoration: none; font: bold 12px tahoma; text-align: center;}
+.picturedmenu2 ul li a:hover{color:#855908;}
+
+
+
+
+
